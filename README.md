@@ -1,0 +1,1 @@
+# put token in .env file and your discord bot is ready to start!

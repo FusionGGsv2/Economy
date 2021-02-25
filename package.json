@@ -1,0 +1,30 @@
+{
+  "name": "Discord-bot",
+  "version": "0.0.1",
+  "description": "economy bot coded by FusionGGs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1",
+    "parse-ms": "^2.1.0",
+    "ms": "^2.1.3",
+    "fs": "^0.0.2",
+    "quick.db": "^7.1.2",
+    "discord.js-pagination": "^1.0.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
